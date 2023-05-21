@@ -1,4 +1,3 @@
-## Basic documentation is located here [https://fivem.cloudless.space/](https://fivem.cloudless.space/)
 
 ### FiveM Server Status
 [![](https://img.shields.io/github/forks/st1xiec/FivemServerStatus?label=Fork&style=social)](https://github.com/st1xiec/FivemServerStatus/fork)
